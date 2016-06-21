@@ -31,7 +31,9 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## References
   [Naeim’s Tip Calculator](https://github.com/naeims/tipcalculator)
+  
   [Peter’s Tip Calculator](https://github.com/peterbai/ios-tip-calculator)
+  
   [Ray Wender Lich's UIAnimation](https://www.raywenderlich.com/113674/ios-animation-tutorial-getting-started)
 ## Notes
 Inable to complete this work, i have learnt many things about Swift and XCODE. Mostly about animation and 
